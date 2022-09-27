@@ -1,0 +1,3 @@
+from hive_annotator.entities.annotations.face_landmark.face_landmark import FaceLandmark
+from hive_annotator.entities.annotations.face_landmark.face_landmark_2d import FaceLandmark2D
+from hive_annotator.entities.annotations.face_landmark.face_landmark_3d import FaceLandmark3D
